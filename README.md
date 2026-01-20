@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Justin Tran 👋
 
-<!--
-**tranj3353-star/tranj3353-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-134 C++ Programming and learning to collaborate with AI tools!
 
-Here are some ideas to get you started:
+## My Foo 🎯
+My passion is programming. I mainly prefer Python and TypeScript (for web development). 
+My passion first started with game development, though I quit because that also comes
+with a whole bunch of other stuff, like art and music. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- 🤖 AI collaboration and prompt engineering
+- 🐙 GitHub workflows and version control
+- 💡 Building my first AI assistant
+
+## Fun Fact
+I can wiggle my ears
+
+## Find Me
+- 📫 Right here on GitHub!
